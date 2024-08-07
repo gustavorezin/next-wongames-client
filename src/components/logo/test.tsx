@@ -1,4 +1,3 @@
-import 'jest-styled-components'
 import { renderWithTheme } from '@/utils/tests/helpers'
 import { Logo } from '.'
 import { screen } from '@testing-library/react'
