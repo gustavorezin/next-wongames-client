@@ -33,7 +33,7 @@ export default {
   args: { items },
   parameters: {
     layout: 'fullscreen',
-    backgrounds: { default: 'dark' }
+    backgrounds: { default: 'won-dark' }
   }
 } as Meta
 
